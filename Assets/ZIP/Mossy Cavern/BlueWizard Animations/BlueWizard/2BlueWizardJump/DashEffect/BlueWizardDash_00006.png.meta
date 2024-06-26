@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueWizardDash_00006_0: 8577336168930343040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      JumpPlant 2_00006_0: 2684376034945523005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CharaWizardJump_00007_0: -8498025566168874742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chara_BlueWalk00013_0: 1712109431748615424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

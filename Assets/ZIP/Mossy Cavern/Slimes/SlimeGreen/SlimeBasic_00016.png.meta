@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlimeBasic_00016_0: 1289723650319053172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

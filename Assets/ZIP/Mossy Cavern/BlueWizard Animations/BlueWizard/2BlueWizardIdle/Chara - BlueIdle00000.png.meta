@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chara - BlueIdle00000_0: 7748173398934293408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tiledbackground-sheet0_0: 6300759440454413905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

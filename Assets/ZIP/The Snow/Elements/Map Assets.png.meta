@@ -538,7 +538,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Map Assets_0: -5158964465244162416
+      Map Assets_1: 8411459993601917498
+      Map Assets_10: 4632749206217352837
+      Map Assets_11: -8795572926322264626
+      Map Assets_12: 2737348455101196519
+      Map Assets_13: -6146212976231725816
+      Map Assets_14: 8176425113148069191
+      Map Assets_15: 4340492895795686614
+      Map Assets_16: -615989184439212651
+      Map Assets_17: 9175692736658521154
+      Map Assets_2: 3218735529310080202
+      Map Assets_3: -1156949473556976067
+      Map Assets_4: -223335621739899489
+      Map Assets_5: 1588171712009870155
+      Map Assets_6: -585883945604524842
+      Map Assets_7: -5277725839966906896
+      Map Assets_8: -8137527774458900305
+      Map Assets_9: -7672948680164146091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

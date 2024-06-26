@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlimeOrange_00017_0: 4181171831924250303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

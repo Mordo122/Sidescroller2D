@@ -250,7 +250,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shared-0-sheet4_0: -7495036534419499344
+      shared-0-sheet4_1: 8661110283088277529
+      shared-0-sheet4_2: 6008831954908013712
+      shared-0-sheet4_3: -5748858940656327278
+      shared-0-sheet4_4: 8187387692627229350
+      shared-0-sheet4_5: 6906076231408527623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
