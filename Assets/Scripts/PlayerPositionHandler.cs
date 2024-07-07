@@ -40,7 +40,6 @@ public class PlayerPositionHandler : MonoBehaviour
     public void OnFinish()
     {
         playerPositionData.ResetData();
-
     }
 		//berguna untuk mengubah posisi player
     private void ChangePlayerPosition(Vector2 newPosition)
@@ -57,4 +56,5 @@ public class PlayerPositionHandler : MonoBehaviour
     {
         playerPositionData.position = newPosition;
     }
+    
 }
