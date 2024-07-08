@@ -200,7 +200,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 152971362}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2024532753}
+        m_TargetAssemblyTypeName: UIMenu, Assembly-CSharp
+        m_MethodName: ShowLevelPanel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &152971362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -909,7 +921,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 675793374}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2024532753}
+        m_TargetAssemblyTypeName: UIMenu, Assembly-CSharp
+        m_MethodName: QuitApp
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: QuitApp
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &675793374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1310,10 +1334,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelCurrent: 0
   levelButtons:
-  - {fileID: 152971361}
-  sceneIndex: 0
-  startPanel: {fileID: 610035850}
-  levelPanel: {fileID: 1383195140}
+  - {fileID: 409652110}
+  sceneIndex: 1
+  startPanel: {fileID: 1383195140}
+  levelPanel: {fileID: 610035850}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class UIMenu : MonoBehaviour
 {
@@ -28,16 +29,16 @@ public class UIMenu : MonoBehaviour
             levelButtons[i].onClick.AddListener(() => GameManager.Instance.ChangeScene(sceneIndex));
         }
     }
-    private void DisableLockedLevel()
-    {
-        for (int i = 0; i < levelButtons.Length; i++)
-        {   
-            if (i > levelCurrent)
-            {
-                levelButtons[i].interactable = false;
-            }   
-        }
-    }
+    // private void DisableLockedLevel()
+    // {
+    //     for (int i = 0; i < levelButtons.Length; i++)
+    //     {   
+    //         if (i > levelCurrent)
+    //         {
+    //             levelButtons[i].interactable = false;
+    //         }   
+    //     }
+    // }
     #endregion
 
 
@@ -58,6 +59,10 @@ public class UIMenu : MonoBehaviour
         startPanel.SetActive(false);
         levelPanel.SetActive(true);
         GameManager.Instance.isStart = true;
+    }
+    public void QuitApp()
+    {
+        Application.Quit();
     }
     
     private void CheckStartPanelExp()
