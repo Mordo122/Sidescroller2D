@@ -10,7 +10,7 @@ public class UIMenu : MonoBehaviour
         GameManager.Instance.CheckSaveFile();
         levelCurrent = GameManager.Instance.levelCurrent;
         AddChangeSceneListeners();
-        DisableLockedLevel();
+        // DisableLockedLevel();
         CheckStartPanelExp();
     }
 
@@ -77,6 +77,7 @@ public class UIMenu : MonoBehaviour
     {
         return GameManager.Instance.isStart;
     }
+
     #endregion
 
 
